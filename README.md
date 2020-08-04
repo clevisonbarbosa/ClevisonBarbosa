@@ -12,7 +12,7 @@ Sou um Front-end Developer :computer::rocket::purple_heart:
  <br/> :email: &nbsp; Entre em contato comigo:https://www.linkedin.com/in/clevison-barbosa-ba444818a/ & 
  [![Gmail Badge](https://img.shields.io/badge/-barbosaclevison@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbosaclevison@gmail.com)](mailto:barbosaclevison@gmail.com)
 
- ## MEU GAROTOS LOGO ABAIXO!!
+ ## Meus Garotos Logo Abaixo!!
  
 <p align="center">
   <img src="https://camo.githubusercontent.com/8dc44bff55ba8bec0fec482453b449b4a2c5d607/68747470733a2f2f7777772e6b696e64706e672e636f6d2f706963632f6d2f3235342d323534373339365f6a6176617363726970742d68746d6c2d6373732d6c6f676f2d68642d706e672d646f776e6c6f61642e706e67" width="150" title="logo-html-css-js">
