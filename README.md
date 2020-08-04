@@ -14,4 +14,8 @@ Sou um Front-end Developer :computer::rocket::purple_heart:
 
  ## MEU GAROTOS LOGO ABAIXO!!
  
-![alt text](https://www.kindpng.com/picc/m/254-2547396_javascript-html-css-logo-hd-png-download.png)![alt text](https://www.kindpng.com/picc/m/296-2968253_1460px-react-logo-react-native-logo-png-transparent.png)![alt text](https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs-1000x423.jpg)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/8dc44bff55ba8bec0fec482453b449b4a2c5d607/68747470733a2f2f7777772e6b696e64706e672e636f6d2f706963632f6d2f3235342d323534373339365f6a6176617363726970742d68746d6c2d6373732d6c6f676f2d68642d706e672d646f776e6c6f61642e706e67" width="150" title="logo-html-css-js">
+  <img src="https://camo.githubusercontent.com/26c5e1137a1763d528bb3ee0a188783809521e16/68747470733a2f2f7777772e6b696e64706e672e636f6d2f706963632f6d2f3239362d323936383235335f3134363070782d72656163742d6c6f676f2d72656163742d6e61746976652d6c6f676f2d706e672d7472616e73706172656e742e706e67" width="150" alt="logo-react">
+  <img src="https://camo.githubusercontent.com/b3e4ae463f417b8f76fdc17192a35b1fe9d2c853/68747470733a2f2f7777772e6f7075732d736f6674776172652e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031382f30392f6e6f64656a732d31303030783432332e6a7067" width="150" alt="logo-node">
+</p>
