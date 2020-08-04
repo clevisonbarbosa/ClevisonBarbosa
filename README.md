@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-Sou apaixonado por resolver problemas utilizando a programação.
+Sou apaixonado pelo Ecossitema da programação, esse sentimento aumenta todos os dias.
 Sou um Front-end Developer :computer::rocket::purple_heart:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando stack JavaScript
@@ -13,4 +13,4 @@ Sou um Front-end Developer :computer::rocket::purple_heart:
  [![Gmail Badge](https://img.shields.io/badge/-barbosaclevison@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbosaclevison@gmail.com)](mailto:barbosaclevison@gmail.com)
 
  
-
+![alt text](https://image.shutterstock.com/image-photo/image-260nw-1188713476.jpg)
