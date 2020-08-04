@@ -12,5 +12,6 @@ Sou um Front-end Developer :computer::rocket::purple_heart:
  <br/> :email: &nbsp; Entre em contato comigo:https://www.linkedin.com/in/clevison-barbosa-ba444818a/ & 
  [![Gmail Badge](https://img.shields.io/badge/-barbosaclevison@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbosaclevison@gmail.com)](mailto:barbosaclevison@gmail.com)
 
+ ## MEU GAROTOS LOGO ABAIXO!!
  
-![alt text](https://image.shutterstock.com/image-photo/image-260nw-1188713476.jpg)
+![alt text](https://www.kindpng.com/picc/m/254-2547396_javascript-html-css-logo-hd-png-download.png)![alt text](https://www.kindpng.com/picc/m/296-2968253_1460px-react-logo-react-native-logo-png-transparent.png)![alt text](https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs-1000x423.jpg)
