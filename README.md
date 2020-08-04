@@ -1,16 +1,13 @@
-### Hi there 👋
+# Clévison Barbosa
 
-<!--
-**clevisonbarbosa/ClevisonBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
 
-Here are some ideas to get you started:
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um Front-end Developer :computer::rocket::purple_heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & PHP
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros , seriados, filmes e futebol
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/clevison-barbosa-ba444818a/)
+[![Gmail Badge](barbosaclevison@gmail.com)
