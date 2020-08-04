@@ -1,6 +1,6 @@
-# Clévison Barbosa
+# Clévison Barbosa - Front end developer :purple_heart:
 
-## Olá pessoal 👋
+## Olá pessoal 👋👋👋
 
 Sou apaixonado pelo Ecossitema da programação, esse sentimento aumenta todos os dias.
 Sou um Front-end Developer :computer::rocket::purple_heart:
