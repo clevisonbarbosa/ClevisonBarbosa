@@ -6,7 +6,7 @@ Sou ULTRA-apaixonado pelo Ecossitema da programação, esse sentimento aumenta a
 Sou um Front-end Developer :computer::rocket::purple_heart:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando stack JavaScript
- <br/> :blush: &nbsp; Posso te ajudar criando sites, blogs, Design responivo, e o back-end redondinho.
+ <br/> :blush: &nbsp; Posso te ajudar criando sites, blogs, Design responsivo, e o back-end redondinho.
  <br/> :computer: &nbsp; Minha stack: Javascript, PHP, wordpress, & Laravel.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros , seriados, filmes e futebol
  <br/> :email: &nbsp; Entre em contato comigo:https://www.linkedin.com/in/clevison-barbosa-ba444818a/ & 
