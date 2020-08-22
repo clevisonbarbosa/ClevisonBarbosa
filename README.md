@@ -3,11 +3,11 @@
 ## Olá pessoal 🖖🖖🖖
 
 Sou ULTRA-apaixonado pelo Ecossitema da programação, esse sentimento aumenta a cada dia.
-Sou um Front-end Developer :computer::rocket::purple_heart:
+Sou um Web Developer :computer::rocket::purple_heart:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos para web usando stack PHP, mas também com dominios de front-end.
  <br/> :blush: &nbsp; Posso te ajudar criando sites, blogs, Design responsivo, e o back-end redondinho.
- <br/> :computer: &nbsp; Minha stack: Javascript, PHP, wordpress, & Laravel.
+ <br/> :computer: &nbsp; Minha stack: Python, Django,  Javascript, PHP.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros , seriados, filmes e futebol
  <br/> :email: &nbsp; Entre em contato comigo:https://www.linkedin.com/in/clevison-barbosa-ba444818a/ & 
  [![Gmail Badge](https://img.shields.io/badge/-barbosaclevison@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbosaclevison@gmail.com)](mailto:barbosaclevison@gmail.com)
