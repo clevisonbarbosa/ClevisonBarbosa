@@ -13,8 +13,8 @@ Sou um Web Developer :computer::rocket::purple_heart:
  [![Gmail Badge](https://img.shields.io/badge/-barbosaclevison@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbosaclevison@gmail.com)](mailto:barbosaclevison@gmail.com)
  
  <p align="center">
-  <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="250" title="gif python">
+  <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="150" title="gif python">
  
-  <img src="https://miro.medium.com/max/1600/1*3WScpj9KnLSO36LcsOxthQ.gif" width="250" alt="imagen logo django framework" style="border-radius: 25px;">
+  <img src="https://miro.medium.com/max/1600/1*3WScpj9KnLSO36LcsOxthQ.gif" width="150" alt="imagen logo django framework">
 </p>
  
