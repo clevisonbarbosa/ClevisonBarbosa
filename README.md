@@ -15,9 +15,5 @@ Sou um Web Developer :computer::rocket::purple_heart:
   & 
  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=5575999587141&text=Hello!)
 
- <p align="center">
-  <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="120" title="gif python">
- 
-  <img src="https://miro.medium.com/max/1600/1*3WScpj9KnLSO36LcsOxthQ.gif" width="120" alt="imagen logo django framework">
-</p>
+
  
