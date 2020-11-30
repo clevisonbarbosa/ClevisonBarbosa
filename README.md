@@ -7,7 +7,6 @@ Sou um Web Developer :computer::rocket::purple_heart:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos para web usando stack Python, Django, PHP, Laravel, mas também com dominios de front-end.
  <br/> :blush: &nbsp; Posso te ajudar criando sites, blogs, Design responsivo, e o back-end redondinho.
- <br/> :computer: &nbsp; Minha stack: Python, Django.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros , seriados, filmes, podcast e futebol
  <br/> Contact:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/clevison-barbosa-ba444818a/)
  & 
