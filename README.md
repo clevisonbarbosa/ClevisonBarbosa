@@ -5,7 +5,7 @@
 Sou ULTRA-apaixonado pelo Ecossitema da programação, esse sentimento aumenta a cada dia.
 Sou um Web Developer :computer:
 
- <br/>  Buscando colaborar com projetos usando PHP e seu ecossistema.
+ <br/>  Buscando colaborar com projetos usando Javascript | Node e seu ecossistema.
  <br/> :blush: &nbsp; Posso te ajudar criando sites, sistemas.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, livros , seriados, filmes, podcast e futebol
  <br/> Contact:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/cl%C3%A9vison-barbosa-9b1803203/)
