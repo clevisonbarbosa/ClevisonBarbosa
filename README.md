@@ -30,5 +30,5 @@
 <div style="display: inline_block" align="center"> 
   <a href = "mailto:clevisonbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cl%C3%A9vison-barbosa-9b1803203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5575999587141&text=Ol%C3%A1%2C%20seja%20muito%20bem%20vindo%2C%20em%20que%20posso%20te%20ajudar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5575999587141&text=Olá,clevison!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
