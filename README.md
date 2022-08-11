@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<img align = "right" width = "450px"  src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
+<img align = "right" width = "450px" width = "500px" src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
 </div>
   
   
