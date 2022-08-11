@@ -1,27 +1,13 @@
-<div align = "center">
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-</div>
-
-<div align = "center">
- <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
-</div>
-
-
+<div align="center">
 
 # Desenvolvedor Web 👨‍💻0️⃣1️⃣
 
+</div>
 
 
 ## Olá, eu sou o Clévison Barbosa, apaixonado por programação e tecnologia!
 
-
-<div align="center">
-<img align = "right" width = "450px" width = "500px" src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
-</div>
-  
-  
-<img height = "100px" src = "https://user-images.githubusercontent.com/92947069/183309444-40054815-7603-4409-b613-603095a0e7d2.gif" >
-  
+   
   
 <div style="display: inline_block" align="center"><br>
   
