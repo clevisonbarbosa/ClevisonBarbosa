@@ -1,25 +1,30 @@
 <div align="center">
 
-# Desenvolvedor Web 👨‍💻0️⃣1️⃣
+# Backend Software Developer 👨‍💻0️⃣1️⃣
 
 </div>
 
 
-## Olá, eu sou o Clévison Barbosa, apaixonado por programação e tecnologia!
+## Hi, I'm Clévison Barbosa, passionate about programming and technology!
 
 <div align="center">
 
-# Tecnologias
+# technologies
 
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  
-  <code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-  <code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-  <code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-  <code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php" alt="php">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="Laravel" alt="laravel">
+  <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
+  <img width="22" height="35" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
+  <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title="Linux" alt="linux">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
+ <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript" alt="javascript">
+<img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_apache.svg" title="Apache" alt="Apache" /></code>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" title="redis" alt="redis">
 
 </div>
 
@@ -32,7 +37,7 @@
 </div>
 
 <div align="center">
-  <h1>Contatos</h1>
+  <h1>Contacts</h1>
 </div>
 <br>
   
