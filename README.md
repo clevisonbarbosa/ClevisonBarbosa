@@ -1,6 +1,6 @@
 <div align="center">
 
-# Backend Software Developer 👨‍💻0️⃣1️⃣
+# Backend Software Developer 👨‍💻
 
 </div>
 
