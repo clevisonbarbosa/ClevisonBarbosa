@@ -1,6 +1,6 @@
 <div align="center">
 
-# Web Developer 👨‍💻
+# Desenvolvedor Back-end • PHP • LARAVEL 👨‍💻
 
 </div>
 
