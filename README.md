@@ -15,7 +15,7 @@
 
 <div style="display: inline_block" align="center"><br>
 
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php" alt="php">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="php" alt="php">
   <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
   <img width="22" height="35" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
