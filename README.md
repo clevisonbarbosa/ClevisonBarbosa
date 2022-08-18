@@ -16,6 +16,7 @@
 <div style="display: inline_block" align="center"><br>
 
   <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
+  <img height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="php" alt="php" /></code>
   <img height="50" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
   <img width="22" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
   <img width="25" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
@@ -23,11 +24,12 @@
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript" alt="javascript">
 <img width="25" height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_apache.svg" title="Apache" alt="Apache" /></code>
-
+<img width="25" height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" title="git" alt="git" /></code>
 
 </div>
 
 <br>
+
 
 <div align="center">
   <a href="https://github.com/clevisonbarbosa">
