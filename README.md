@@ -15,16 +15,18 @@
 
 <div style="display: inline_block" align="center"><br>
 
-  <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-  <img height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="php" alt="php" /></code>
-  <img height="50" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
-  <img width="22" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
-  <img width="25" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title="Linux" alt="linux">
+  <img height="50" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v2.png" title="Java" alt="Java" /></code>
+  <img width="45" height="50" src="https://img.icons8.com/plasticine/344/intellij-idea.png" title="intellij" alt="intellij" />
+  <img height="50" src="https://img.icons8.com/officel/344/php-logo.png" title="php" alt="php" /></code>
+  <img height="50" width="45" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
+  <img width="45" height="50" src="https://img.icons8.com/color/344/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
+  <img width="45" height="50" src="https://img.icons8.com/color/344/mysql-logo.png" title="MySQL" alt="MySQL"/></code>
+  <img height="50" src="https://img.icons8.com/color/344/linux--v1.png" title="Linux" alt="linux">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
- <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript" alt="javascript">
-<img width="25" height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_apache.svg" title="Apache" alt="Apache" /></code>
-<img width="25" height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" title="git" alt="git" /></code>
+ <img height="50" src="https://img.icons8.com/fluency/344/javascript.png" title="javascript" alt="javascript">
+<img width="45" height="60" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_apache.svg" title="Apache" alt="Apache" /></code>
+<img width="45" height="50" src="https://img.icons8.com/color/344/git.png" title="git" alt="git" /></code>
+<img width="45" height="50" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" title="visual-studio-code" alt="visual-studio-code" />
 
 </div>
 
