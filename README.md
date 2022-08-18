@@ -1,6 +1,6 @@
 <div align="center">
 
-# Backend Software Developer 👨‍💻
+# Backend Software Developer <img height="40" src="https://img.icons8.com/color/2x/java-coffee-cup-logo--v2.gif" title="Java" alt="Java" /></code>
 
 </div>
 
