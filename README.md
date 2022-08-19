@@ -1,6 +1,6 @@
 <div align="center">
 
-# Backend Software Developer <img height="40" src="https://img.icons8.com/color/2x/java-coffee-cup-logo--v2.gif" title="Java" alt="Java" /></code>
+# Backend Software Developer <img height="40" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" title="C#" alt="C#" /></code>
 
 </div>
 
@@ -15,8 +15,7 @@
 
 <div style="display: inline_block" align="center"><br>
 
-  <img height="50" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v2.png" title="Java" alt="Java" /></code>
-  <img width="45" height="50" src="https://img.icons8.com/plasticine/344/intellij-idea.png" title="intellij" alt="intellij" />
+  <img height="50" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" title="C#" alt="C#" /></code>
   <img height="50" src="https://img.icons8.com/officel/344/php-logo.png" title="php" alt="php" /></code>
   <img height="50" width="45" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
   <img width="45" height="50" src="https://img.icons8.com/color/344/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
@@ -27,7 +26,7 @@
 <img width="45" height="60" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_apache.svg" title="Apache" alt="Apache" /></code>
 <img width="45" height="50" src="https://img.icons8.com/color/344/git.png" title="git" alt="git" /></code>
 <img width="45" height="50" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" title="visual-studio-code" alt="visual-studio-code" />
-
+<img width="45" height="50" src="https://img.icons8.com/color/344/visual-studio--v1.png" title="visual-studio" alt="visual-studio" />
 </div>
 
 <br>
