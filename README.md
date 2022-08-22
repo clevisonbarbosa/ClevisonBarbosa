@@ -4,10 +4,15 @@
 
 </div>
 
+<div align="center">
 
 ## Hi, I'm Clévison Barbosa, passionate about programming and technology!
 
+</div>
+
 <div align="center">
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ClevisonBarbosa" alt="Clevison" /></a> </p>
 
 # technologies
 
