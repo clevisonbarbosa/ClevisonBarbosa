@@ -25,13 +25,12 @@
 <img width="45" height="50" src="https://img.icons8.com/color/344/html-5--v1.png" title="html" alt="html" />
 <img width="45" height="50" src="https://img.icons8.com/color/344/css3.png" title="css" alt="css" />
 <img width="45" height="50" src="https://img.icons8.com/color/344/python--v1.png" title="python" alt="python" />
- 
-  <img height="50" width="45" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
+  <img width="45" height="50" src="https://img.icons8.com/color/344/git.png" title="git" alt="git" /></code>
   <img width="45" height="50" src="https://img.icons8.com/color/344/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
   <img width="45" height="50" src="https://img.icons8.com/color/344/mysql-logo.png" title="MySQL" alt="MySQL"/></code>
   <img height="50" src="https://img.icons8.com/color/344/linux--v1.png" title="Linux" alt="linux">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
-  <img width="45" height="50" src="https://img.icons8.com/color/344/git.png" title="git" alt="git" /></code>
+ <img height="50" width="45" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
 
 
 </div>
