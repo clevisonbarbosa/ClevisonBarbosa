@@ -21,9 +21,11 @@
 <div style="display: inline_block" align="center"><br>
 
 
- <img height="50" src="https://img.icons8.com/fluency/344/javascript.png" title="javascript" alt="javascript">
 <img width="45" height="50" src="https://img.icons8.com/color/344/html-5--v1.png" title="html" alt="html" />
 <img width="45" height="50" src="https://img.icons8.com/color/344/css3.png" title="css" alt="css" />
+ <img height="50" src="https://img.icons8.com/officel/2x/php-logo.png" title="php" alt="php">
+  <img height="50" src="https://img.icons8.com/stickers/344/laravel.png" title="laravel" alt="laravel">
+ <img height="50" src="https://img.icons8.com/fluency/344/javascript.png" title="javascript" alt="javascript">
 <img width="45" height="50" src="https://img.icons8.com/color/344/python--v1.png" title="python" alt="python" />
   <img width="45" height="50" src="https://img.icons8.com/color/344/git.png" title="git" alt="git" /></code>
   <img width="45" height="50" src="https://img.icons8.com/color/344/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
