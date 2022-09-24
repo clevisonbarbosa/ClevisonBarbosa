@@ -24,6 +24,8 @@
 <img width="45" height="50" src="https://img.icons8.com/color/344/html-5--v1.png" title="html" alt="html" />
 <img width="45" height="50" src="https://img.icons8.com/color/344/css3.png" title="css" alt="css" />
  <img height="50" src="https://img.icons8.com/officel/2x/php-logo.png" title="php" alt="php">
+ <img width="45" height="50" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" title="csharp" alt="cshar">
+ <img width="45" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png" title="dotnet" alt="donet">
  <img height="50" src="https://img.icons8.com/fluency/344/javascript.png" title="javascript" alt="javascript">
 <img width="45" height="50" src="https://img.icons8.com/color/344/python--v1.png" title="python" alt="python" />
   <img width="45" height="50" src="https://img.icons8.com/color/344/git.png" title="git" alt="git" /></code>
