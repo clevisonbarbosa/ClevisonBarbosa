@@ -20,16 +20,10 @@
 
 <div style="display: inline_block" align="center"><br>
 
-
-<img width="45" height="50" src="https://img.icons8.com/color/344/html-5--v1.png" title="html" alt="html" />
-<img width="45" height="50" src="https://img.icons8.com/color/344/css3.png" title="css" alt="css" />
- <img height="50" src="https://img.icons8.com/officel/2x/php-logo.png" title="php" alt="php">
- <img height="50" src="https://img.icons8.com/fluency/344/javascript.png" title="javascript" alt="javascript">
+<img width="45" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png" title="git" alt="git" /></code>
+ <img width="45" height="50" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" title="git" alt="git" /></code>
   <img width="45" height="50" src="https://img.icons8.com/color/344/git.png" title="git" alt="git" /></code>
   <img width="45" height="50" src="https://img.icons8.com/color/344/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
-  <img width="45" height="50" src="https://img.icons8.com/color/344/mysql-logo.png" title="MySQL" alt="MySQL"/></code>
-  <img height="50" src="https://img.icons8.com/color/344/linux--v1.png" title="Linux" alt="linux">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
 
 
 </div>
