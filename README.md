@@ -14,23 +14,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ClevisonBarbosa" alt="Clevison" /></a> </p>
 
-# Technologies
-
-</div>
-
-<div style="display: inline_block" align="center"><br>
-
-<img width="45" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png" title="git" alt="git" /></code>
- <img width="45" height="50" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" title="git" alt="git" /></code>
-  <img width="45" height="50" src="https://img.icons8.com/color/344/git.png" title="git" alt="git" /></code>
-  <img width="45" height="50" src="https://img.icons8.com/color/344/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
-
-
-</div>
-
-<br>
-
-
 
 
 <div align="center">
