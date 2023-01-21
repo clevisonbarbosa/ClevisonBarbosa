@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clévison</h1>
-<h3 align="center">A passionate in C# e Javascript and Fullstack developer from Brazil</h3>
+<h3 align="center">A passionate in C# and Javascript and Fullstack developer from Brazil</h3>
 
 
 <h3 align="left">Connect with me:</h3>
