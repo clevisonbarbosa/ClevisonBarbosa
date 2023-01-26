@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clévison</h1>
 
-Currently focused on Front-end. Currently, my stack of studies includes HTML, CSS, Javascript, ReactJS.
+Currently focused on Back-end. Currently, my stack of studies includes Python, Django, Javascript.
 
 When I'm not behind a keyboard, I like to listen to music, watch movies, and go to the beach.
 
