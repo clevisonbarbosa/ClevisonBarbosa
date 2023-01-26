@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Clévison</h1>
-<h3 align="center">A passionate in python developer in Brazil</h3>
 
+Currently focused on Front-end. Currently, my stack of studies includes HTML, CSS, Javascript, ReactJS.
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<a href="https://linkedin.com/in/clévison-barbosa-9b1803203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clevisonbarbosa" height="30" width="40" /></a>
+When I'm not behind a keyboard, I like to listen to music, watch movies, and go to the beach.
 
-#### I mainly code using
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+Feel free to contact me via:
 
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-clevison-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clévison-barbosa-9b1803203/)](https://www.linkedin.com/in/clévison-barbosa-9b1803203/)
+
+[![Gmail Badge](https://img.shields.io/badge/barbosaclevison@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:barbosaclevison@gmail.com)](mailto:barbosaclevison@gmail.com)
