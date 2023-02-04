@@ -1,13 +1,10 @@
 <div style="text-align: center;">
   <h1>Hi 👋, I'm Clévison</h1>
-  <p>Currently focused on Fullstack. Currently, my stack of studies includes PHP, Laravel.</p>
+  <p>Currently focused on Backend. Currently, my stack of studies includes C#, .Net</p>
   <div style="display: flex; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="50" alt="PHP logo"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="40" alt="Laravel logo"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="50" alt="csharp logo"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width="40" alt="netcore logo"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" alt="JavaScript logo"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="40" alt="Vue.js logo"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50" alt="MySQL logo"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" alt="Python logo"/>
   </div>
   <p>When I'm not behind a keyboard, I like to listen to music, watch movies, and go to the beach.</p>
   <p>Feel free to contact me via:</p>
