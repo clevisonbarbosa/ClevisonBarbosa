@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1>Hi 👋, I'm Clévison</h1>
-  <p>Currently focused on Backend. Currently, my stack of studies includes C#, .Net</p>
+  <p>Currently focused on Backend. Currently, my stack of studies includes JavaScript and Python</p>
   <div style="display: flex; justify-content: center;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" alt="Python logo"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" alt="JavaScript logo"/>
