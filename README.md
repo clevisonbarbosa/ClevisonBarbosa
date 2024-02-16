@@ -1,14 +1,17 @@
 <div style="text-align: center;">
   <h1>Hi 👋, I'm Clévison</h1>
-  <p>Currently focused on Web Developer. Currently, my stack of studies includes Python e Javascript</p>
+  <p>Currently focused on Web Developer. Currently, my stack of studies includes PHP e Javascript</p>
   <div style="display: flex; justify-content: center;">
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" alt="python logo"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="40" alt="php logo"/>
 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="40" alt="django logo"/>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="40" alt="laravel logo"/>
+
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" alt="sqlserver logo"/>
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" alt="javascript logo"/>
-  
+
+    
   </div>
   <p>When I'm not behind a keyboard, I like to listen to music, watch movies, and go to the beach.</p>
   <p>Feel free to contact me via:</p>
