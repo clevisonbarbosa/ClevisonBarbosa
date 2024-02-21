@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Hi 👋, I'm Clévison</h1>
+  <h1>Hi 👋, I'm Clévison Barbosa</h1>
   <p>Currently focused on Web Developer. Currently, my stack of studies includes Backend Java</p>
   <div style="display: flex; justify-content: center;">
 
