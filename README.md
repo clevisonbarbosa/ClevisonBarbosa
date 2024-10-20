@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Clévison Barbosa**
 
-### Backend Developer | Python, Django, FastAPI, PHP
+### Backend Developer | Javascript, Node, react, PHP, Python
 
 Passionate about building efficient and scalable web applications.
 
@@ -11,6 +11,13 @@ Passionate about building efficient and scalable web applications.
 ### 🛠️ Languages and Tools:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" alt="react"/>
+
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50" alt="node"/>
+
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" alt="Javascript"/>
+  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" alt="Python"/>
 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="50" alt="PHP"/>
@@ -35,7 +42,7 @@ Passionate about building efficient and scalable web applications.
 
 ### 🚀 About Me
 
-I'm a backend developer with a focus on creating robust and scalable solutions using Python, Django, FastAPI, and PHP. My current interests also include React for building dynamic web interfaces.
+I'm a backend developer with a focus on creating robust and scalable solutions using Node, PHP, Python. My current interests also include React for building dynamic web interfaces.
 
 When I'm not coding, you can find me enjoying music, watching movies, or relaxing at the beach.
 
