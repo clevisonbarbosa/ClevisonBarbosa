@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Clévison Barbosa**
 
-### Backend Developer | PHP | Javascript | Node | Python
+### Backend Developer | PHP | Python
 
 Passionate about building efficient and scalable web applications.
 
