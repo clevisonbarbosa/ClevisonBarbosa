@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Clévison Barbosa**
 
-### Backend Developer | PHP | Java
+### Backend Developer | PHP | VUE.JS
 
 Passionate about building efficient and scalable web applications.
 
@@ -12,7 +12,9 @@ Passionate about building efficient and scalable web applications.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="50" alt="java"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="50" alt="laravel"/>
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="50" alt="vue"/>
 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="50" alt="PHP"/>
 
