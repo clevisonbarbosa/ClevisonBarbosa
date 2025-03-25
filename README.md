@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Clévison Barbosa**
 
-### Backend Developer | PHP | VUE.JS
+### Backend Developer | PHP | LARAVEL | VUE.JS
 
 Passionate about building efficient and scalable web applications.
 
@@ -38,7 +38,7 @@ Passionate about building efficient and scalable web applications.
 
 ### 🚀 About Me
 
-I'm a backend developer with a focus on creating robust and scalable solutions using Java, PHP. My current interests also include React for building dynamic web interfaces.
+I'm a backend developer with a focus on creating robust and scalable solutions using Laravel, PHP, Vue.js. My current interests also include React for building dynamic web interfaces.
 
 When I'm not coding, you can find me enjoying music, watching movies, or relaxing at the beach.
 
